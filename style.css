@@ -18,6 +18,7 @@ a {
 }
 
 details {
+  float: left;
   display: block;
   text-align: center;
   background-color: red;
