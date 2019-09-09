@@ -6,9 +6,8 @@ header {
 }
 
 .middle {
-  width: 100%;
-  height: 100%;
   font-size: 12px;
+  width: 800px;
   text-align: center;
 }
 
