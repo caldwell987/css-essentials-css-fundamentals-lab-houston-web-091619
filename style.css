@@ -9,6 +9,6 @@ h1 {
 header {
   text-align: center;
 }
-image {
-  align: center;
+#images {
+  position: center;
 }
