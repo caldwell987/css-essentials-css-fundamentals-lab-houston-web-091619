@@ -9,6 +9,6 @@ h1 {
 header {
   text-align: center;
 }
-#images {
-  padding: 1000px;
+.featured-property {
+  position: center;
 }
