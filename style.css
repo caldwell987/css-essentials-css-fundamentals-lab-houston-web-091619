@@ -18,7 +18,7 @@ a {
 }
 
 bottom {
-  text-align: center;
+  text-align: float;
   float: left;
   display: block;
   background-color: red;
