@@ -13,6 +13,6 @@ header {
 .image {
   padding: 1px;
 }
-.details {
+details {
   text-align: center;
 }
