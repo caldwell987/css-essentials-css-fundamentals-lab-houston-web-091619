@@ -17,6 +17,7 @@ a {
 }
 
 details {
+  text-align: center;
   float: left;
   display: block;
   background-color: red;
