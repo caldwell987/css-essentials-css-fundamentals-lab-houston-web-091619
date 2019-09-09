@@ -12,11 +12,13 @@ h1 {
   color: red;
   text-align: center;
 }
-.image {
-  
+a {
+  padding: 10px;
+  background-color: blue;
 }
 
 details {
+  display: block;
   text-align: center;
   background-color: red;
 }
