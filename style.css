@@ -1,7 +1,9 @@
 header {
   text-align: center;
 }
-.images
+.images {
+  text-align: center;
+}
 
 body {
   width: 75%;
